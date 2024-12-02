@@ -1,5 +1,3 @@
-# The music preferences are encoded by a binary vector per user.
-# They correspond to the following genres (in order):
 Classical
 Folk
 Jazz Hip Hop

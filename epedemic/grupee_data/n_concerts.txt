@@ -1,4 +1,3 @@
-# The aggregate number of concerts per genre per year. The concerts are evenly distributed throughout the year.
 Classical:24
 Folk:23
 Jazz Hip Hop:8
