@@ -2,3 +2,6 @@ data/
 .DS_Store
 __pycache__
 grupee_data
+.ipynb_checkpoints/
+square_env
+recorded_data
